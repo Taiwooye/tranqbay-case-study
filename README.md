@@ -1,6 +1,6 @@
 # TranqBay Health — Frontend Engineering Case Study
 
-> **Role:** Founding Frontend Engineer · **When:** 2024 – January 2026 · **Remote**
+> **Role:** Founding Frontend Engineer · **When:** 2024 – January 2026 · **Remote**<br>
 > **Product:** [tranqbay.health](https://tranqbay.health) — an online therapy platform connecting clients with licensed therapists in Nigeria and beyond, on web, iOS and Android.
 
 The TranqBay codebase is private and belongs to the company, so this repo contains **no company code**. It documents what I built, how I approached it, and what I learned.
